@@ -8,8 +8,8 @@ int power(int,int);
 
 int main()
 {
-    int i,a,b,res;
-    printf("\n                  !!  INTEGER  CALCULATOR !!          \n");
+    int i,a,b,res;                           
+    printf("\n                  !!!  INTEGER  CALCULATOR !!!          \n");
     printf("\nMathematical operations avilable (Provided below is the key):");
     printf("\n");
  
